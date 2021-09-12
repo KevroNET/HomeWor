@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Lesson1</string>
+    <string name="app_name"></string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Электронная почта</string>
+    <string name="prompt_password">Пороль</string>
+    <string name="action_sign_in">Войти или зарегистрироваться</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="welcome">"Добро пожаловать!"</string>
+    <string name="invalid_username">Пользователь не найден.</string>
+    <string name="invalid_password">Пороль меньше 5 символов</string>
+    <string name="login_failed">"Неудачная регистрация"</string>
+    <string name="onRegistration">Продолжить без регистрации</string>
+    <string name="ButtonAgree">Продолжить без регистрации</string>
+    <string name="TextViewAgree">Сервис регистрации пользователей временно не доступен. Продолжить без регистрации.</string>
+
+    <string name="item1">Профиль</string>
+    <string name="item2">Настойки</string>
+    <string name="item3">О программе</string>
+    <string name="item4">Выход</string>
+
 </resources>
